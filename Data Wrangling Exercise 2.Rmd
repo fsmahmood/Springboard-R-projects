@@ -5,10 +5,6 @@ date: May 27, 2017
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### Step 0: Load the data in RStudio
 
 I uploaded the dataset into the data frame by saving it as a CSV file and entering the following code:
@@ -45,7 +41,7 @@ summary(titanic$age)
 
 I also could have used the median age rather than the mean age, and perhaps that would have been better since the median cannot be skewed by outliers on either end of the distribution.
 
-###Step 3: Missing values for lifeboat
+### Step 3: Missing values for lifeboat
 
 I simply loaded the data for the ```boat``` column, and then filled the missing values with ```NA```.
 
@@ -55,7 +51,7 @@ titanic$boat[which(titanic$boat == "")] <- NA
 titanic$boat
 ```
 
-###Step 4: Cabin Numbers
+### Step 4: Cabin Numbers
 
 I loaded the data for the ```cabin``` column, and then filled the missing values with ```NA```. For me, it made sense because ```NA``` by definition means that there is no given value for that particular data point, and filling the missing values with ```NA``` enabled me to label those values ```0``` in the newly created ```has_cabin_number``` column. After that first step, the ```has_cabin_number``` column then had missing values for rows that had numbers in the ```cabin``` column. That made it easy for me to fill those missing values in the ```has_cabin_number``` column with ```1```. The ```has_cabin_number``` column was then complete.
 
@@ -67,7 +63,7 @@ titanic$has_cabin_number[which(is.na(titanic$has_cabin_number))] <- 1
 titanic$has_cabin_number
 ```
 
-###Step 5: Submit the project
+### Step 5: Submit the project
 
 I saved the cleaned ```titanic``` data as a new CSV file.
 
