@@ -53,13 +53,16 @@ titanic$boat
 
 ### Step 4: Cabin Numbers
 
-I loaded the data for the ```cabin``` column, and then filled the missing values with ```NA```. For me, it made sense because ```NA``` by definition means that there is no given value for that particular data point, and filling the missing values with ```NA``` enabled me to label those values ```0``` in the newly created ```has_cabin_number``` column. After that first step, the ```has_cabin_number``` column then had missing values for rows that had numbers in the ```cabin``` column. That made it easy for me to fill those missing values in the ```has_cabin_number``` column with ```1```. The ```has_cabin_number``` column was then complete.
+I loaded the data for the ```cabin``` column, and then filled the missing values with ```NA```. For me, it made sense to do that because ```NA``` by definition means that there is no given value for that particular data point, and filling the missing values with ```NA``` enabled me to label those values ```0``` in the newly created ```has_cabin_number``` column. After that first step, the ```has_cabin_number``` column then had missing values for rows that had numbers in the ```cabin``` column. That made it easy for me to fill those missing values in the ```has_cabin_number``` column with ```1```. The ```has_cabin_number``` column was then complete.
+
+However, I later removed the ```NA``` values from the cabin column to leave them blank again, mainly so that a reader would not mistakenly think that there was a cabin called "NA".
 
 ```
 titanic$cabin
 titanic$cabin[which(titanic$cabin == "")] <- NA
 titanic$has_cabin_number[which(is.na(titanic$cabin))] <- 0
 titanic$has_cabin_number[which(is.na(titanic$has_cabin_number))] <- 1
+titanic$cabin[which(is.na(titanic$cabin))] <- ""
 titanic$has_cabin_number
 ```
 
