@@ -1,0 +1,67 @@
+---
+title: "Data Wrangling Exercise 1"
+author: Faisal Mahmood
+date: May 27, 2017
+output: html_document
+---
+
+### Step 0: Load the data in RStudio
+
+I uploaded the dataset into the data frame by saving it as a CSV file and entering the following code:
+```
+setwd("~/Documents/Data Science Foundations/Data Wrangling")
+refine <- read.csv(file="~/Documents/Data Science Foundations/Data Wrangling/refine_original.csv", header = TRUE, sep = ",")
+```
+Now, by entering ```View(refine)```, I can easily view the dataset.
+
+### Step 1: Clean up brand names
+
+```
+refine <- refine %>% arrange(company)
+tolower(refine$company)
+refine$company <- tolower(refine$company)
+philip_index <- grep("^[pf]", refine$company)
+refine$company[philip_index] <- "philips"
+uni_index <- grep("^[u]", refine$company)
+refine$company[uni_index] <- "unilever"
+akzo_index <- grep("^[a]", refine$company)
+refine$company[akzo_index] <- "akzo"
+```
+
+### Step 2: Separate product number and code
+
+```
+refine <- separate(refine, Product.code...number, c("product_code", "product_number"), sep = "-")
+```
+
+### Step 3: Add product categories
+
+```
+refine <- mutate(refine, product_category = product_code)
+refine$product_category <- factor(refine$product_category, c("p", "v", "x", "q"), c("Smartphone", "TV", "Laptop", "Tablet"))
+```
+
+### Step 4: Add full address for geocoding
+
+```
+refine <- unite(refine, full_address, address, city, country, sep = ",", remove = FALSE)
+```
+
+### Step 5: Create dummy variables for company and product categories
+
+```
+refine$company_akzo <- ifelse(refine$company == "akzo", 1, 0)
+refine$company_philips <- ifelse(refine$company == "philips", 1, 0)
+refine$company_unilever <- ifelse(refine$company == "unilever", 1, 0)
+refine$company_van_houten <- ifelse(refine$company == "van houten", 1, 0)
+refine$product_smartphone <- ifelse(refine$product_code == "p", 1, 0)
+refine$product_tv <- ifelse(refine$product_code == "v", 1, 0)
+refine$product_laptop <- ifelse(refine$product_code == "x", 1, 0)
+refine$product_tablet <- ifelse(refine$product_code == "q", 1, 0)
+```
+
+### Step 6: Save the cleaned up data and submit to Github
+
+```
+write.csv(refine, "refine_clean.csv")
+```
