@@ -53,7 +53,7 @@ titanic$boat
 
 ### Step 4: Cabin Numbers
 
-I loaded the data for the ```cabin``` column, and then decided to use the ```ifelse()``` function to assign the value "0" in a newly created ```has_cabin_number``` column wherever there was no cabin number, and then assign the value "1" elsewhere. For this step, I did not need to use ```NA```, even though ```NA``` usually indicates a missing value, since the ```ifelse()``` function did not require it. Furthermore, inserting "NA" in a column full of cabin numbers with letters in their labels would have caused confusion to a reader. 
+I loaded the data for the ```cabin``` column, and then decided to use the ```ifelse()``` function to assign the value "0" in a newly created ```has_cabin_number``` column wherever there was no cabin number, and then assign the value "1" elsewhere. For this step, I did not need to use ```NA```, even though ```NA``` usually indicates a missing value, since the ```ifelse()``` function did not require it. Furthermore, inserting "NA" in a column full of cabin numbers with letters in their labels would have caused confusion to the reader. 
 
 ```
 titanic$cabin
