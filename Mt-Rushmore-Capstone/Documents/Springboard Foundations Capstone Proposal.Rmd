@@ -1,0 +1,18 @@
+---
+title: "Springboard Foundations Capstone Proposal"
+author: "Faisal Mahmood"
+date: "6/12/2017"
+output: html_document
+---
+
+## Analyzing the effect of weather on Mount Rushmore visits
+
+For this project, I would like to gather data on the number of daily visits to Mt. Rushmore, and combine that data with the daily temperature and precipitation data for Mt. Rushmore to see how much the weather impacted the number of visits.
+
+My primary client would the National Park Service, while other clients could be local businesses around the Black Hills that cater to Mt. Rushmore tourists. I believe they will benefit from an analysis that links temperature and precipitation patterns to the volume of Mt. Rushmore tourists. The National Park Service can assign staffers based on how many tourists they expect based on the weather forecast, and both the NPS and businesses in the area can come up with ways to improve the experience for visitors on days with undesirable weather, or adjust operations based on the forecast. 
+
+I will be using data from the National Park Service for the number of daily visits to Mt. Rushmore, going back to 1993. I will use temperature and precipitation data from the National Oceanic and Atmospheric Administration for the Mt. Rushmore weather station, and will combine that data with the daily visitation numbers. Both data sources are publicly available, at the following links:
+* https://irma.nps.gov/Stats/Reports/Park/MORU
+* http://xmacis.rcc-acis.org/
+
+My likely approach will be to download the datasets into CSV files, and combine all the years of data for both visitation and weather into one big data frame. That will be the data wrangling stage of this assignment. I will then do an analysis and visualization of that data to figure out the link between the weather and the volume of tourists. I plan to use R Studio for this analysis.
