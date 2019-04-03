@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Apr 2012,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,April 1,"4,144","2,338",77.2
+Daily Visitation,April 2,"2,076","3,833",-45.8
+Daily Visitation,April 3,"3,512","1,903",84.6
+Daily Visitation,April 4,"2,898","1,852",56.5
+Daily Visitation,April 5,"3,199","2,224",43.8
+Daily Visitation,April 6,"3,850","2,260",70.4
+Daily Visitation,April 7,"4,406","1,771",148.8
+Daily Visitation,April 8,"4,361","2,187",99.4
+Daily Visitation,April 9,"2,643","2,213",19.4
+Daily Visitation,April 10,"2,659","2,017",31.8
+Daily Visitation,April 11,"2,540","2,289",11.0
+Daily Visitation,April 12,"2,025","2,109",-4.0
+Daily Visitation,April 13,"2,813","1,711",64.4
+Daily Visitation,April 14,"2,495","1,306",91.0
+Daily Visitation,April 15,"2,143","2,383",-10.1
+Daily Visitation,April 16,"2,436","3,704",-34.2
+Daily Visitation,April 17,"2,343","2,904",-19.3
+Daily Visitation,April 18,"2,405","1,918",25.4
+Daily Visitation,April 19,"2,522","3,329",-24.2
+Daily Visitation,April 20,"2,924","3,187",-8.3
+Daily Visitation,April 21,"4,102","2,704",51.7
+Daily Visitation,April 22,"4,119","3,272",25.9
+Daily Visitation,April 23,"3,301","4,848",-31.9
+Daily Visitation,April 24,"3,450","4,441",-22.3
+Daily Visitation,April 25,"3,073","2,672",15.0
+Daily Visitation,April 26,"3,076","2,777",10.8
+Daily Visitation,April 27,"2,643","2,589",2.1
+Daily Visitation,April 28,"4,096","3,688",11.1
+Daily Visitation,April 29,"3,945","3,308",19.3
+Daily Visitation,April 30,"3,600","3,238",11.2
+Daily Visitation,April 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"59,103","51,022",15.8,"155,898","122,534",27.2,"308,892"
+Non-Recreation Visitors,"34,711","29,965",15.8,"82,679","65,420",26.4,"145,020"
+Total Visitors,"93,814","80,988",15.8,"238,578","187,954",26.9,"453,912"
+

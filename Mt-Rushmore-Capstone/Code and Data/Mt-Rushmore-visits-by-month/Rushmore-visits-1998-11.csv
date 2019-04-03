@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Nov 1998,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,November 1,"1,336","1,447",-7.7
+Daily Visitation,November 2,791,"1,050",-24.7
+Daily Visitation,November 3,885,928,-4.6
+Daily Visitation,November 4,913,"1,061",-13.9
+Daily Visitation,November 5,810,"1,247",-35.0
+Daily Visitation,November 6,612,"1,223",-50.0
+Daily Visitation,November 7,604,"1,333",-54.7
+Daily Visitation,November 8,893,"1,020",-12.5
+Daily Visitation,November 9,378,996,-62.0
+Daily Visitation,November 10,378,896,-57.8
+Daily Visitation,November 11,675,"1,061",-36.4
+Daily Visitation,November 12,899,888,1.2
+Daily Visitation,November 13,996,472,111.0
+Daily Visitation,November 14,"1,188",472,151.7
+Daily Visitation,November 15,"1,360",934,45.6
+Daily Visitation,November 16,"1,039","1,070",-2.9
+Daily Visitation,November 17,656,788,-16.8
+Daily Visitation,November 18,493,834,-40.9
+Daily Visitation,November 19,656,707,-7.2
+Daily Visitation,November 20,820,899,-8.8
+Daily Visitation,November 21,"1,115",761,46.5
+Daily Visitation,November 22,"1,112",791,40.6
+Daily Visitation,November 23,942,"1,028",-8.4
+Daily Visitation,November 24,791,966,-18.1
+Daily Visitation,November 25,936,982,-4.7
+Daily Visitation,November 26,"1,152",812,41.9
+Daily Visitation,November 27,"2,281","1,034",120.6
+Daily Visitation,November 28,"1,849","2,093",-11.7
+Daily Visitation,November 29,"1,158","1,814",-36.2
+Daily Visitation,November 30,604,"1,247",-51.6
+Daily Visitation,November 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"18,134","19,754",-8.2,"1,997,368","1,735,204",15.1,"89,686"
+Non-Recreation Visitors,"10,200","11,112",-8.2,"684,727","605,418",13.1,"35,340"
+Total Visitors,"28,334","30,866",-8.2,"2,682,095","2,340,621",14.6,"125,026"
+

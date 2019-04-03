@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Jun 1998,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,June 1,"11,506","8,764",31.3
+Daily Visitation,June 2,"10,541","8,524",23.7
+Daily Visitation,June 3,"11,931","10,326",15.5
+Daily Visitation,June 4,"14,714","10,212",44.1
+Daily Visitation,June 5,"14,048","9,628",45.9
+Daily Visitation,June 6,"17,065","13,543",26.0
+Daily Visitation,June 7,"11,321","14,140",-19.9
+Daily Visitation,June 8,"15,838","15,357",3.1
+Daily Visitation,June 9,"17,210","14,452",19.1
+Daily Visitation,June 10,"15,739","13,721",14.7
+Daily Visitation,June 11,"13,816","11,902",16.1
+Daily Visitation,June 12,"15,341","12,521",22.5
+Daily Visitation,June 13,"14,923","12,428",20.1
+Daily Visitation,June 14,"17,724","13,735",29.0
+Daily Visitation,June 15,"19,605","14,959",31.1
+Daily Visitation,June 16,"19,903","16,374",21.6
+Daily Visitation,June 17,"14,595","16,148",-9.6
+Daily Visitation,June 18,"14,786","15,359",-3.7
+Daily Visitation,June 19,"18,804","14,817",26.9
+Daily Visitation,June 20,"18,508","14,701",25.9
+Daily Visitation,June 21,"19,303","16,590",16.4
+Daily Visitation,June 22,"19,290","17,130",12.6
+Daily Visitation,June 23,"20,149","17,507",15.1
+Daily Visitation,June 24,"17,715","17,953",-1.3
+Daily Visitation,June 25,"18,485","17,254",7.1
+Daily Visitation,June 26,"17,993","15,861",13.4
+Daily Visitation,June 27,"20,035","15,183",32.0
+Daily Visitation,June 28,"21,355","17,798",20.0
+Daily Visitation,June 29,"22,569","20,267",11.4
+Daily Visitation,June 30,"22,670","21,717",4.4
+Daily Visitation,June 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"365,484","316,051",15.6,"606,837","538,134",12.8,"708,242"
+Non-Recreation Visitors,"142,133","122,909",15.6,"240,093","214,481",11.9,"281,515"
+Total Visitors,"507,617","438,960",15.6,"846,931","752,615",12.5,"989,757"
+

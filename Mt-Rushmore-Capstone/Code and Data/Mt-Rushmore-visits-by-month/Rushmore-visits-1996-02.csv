@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Feb 1996,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,February 1,341,"1,022",-66.6
+Daily Visitation,February 2,425,991,-57.1
+Daily Visitation,February 3,548,"1,310",-58.2
+Daily Visitation,February 4,904,"1,708",-47.1
+Daily Visitation,February 5,691,"1,621",-57.4
+Daily Visitation,February 6,842,840,0.2
+Daily Visitation,February 7,980,"1,010",-3.0
+Daily Visitation,February 8,"1,131",845,33.8
+Daily Visitation,February 9,"1,629","1,083",50.4
+Daily Visitation,February 10,"1,220",921,32.5
+Daily Visitation,February 11,"1,600",996,60.6
+Daily Visitation,February 12,929,977,-4.9
+Daily Visitation,February 13,"1,043",698,49.4
+Daily Visitation,February 14,"1,048",632,65.8
+Daily Visitation,February 15,"1,047",752,39.2
+Daily Visitation,February 16,"1,449",842,72.1
+Daily Visitation,February 17,"3,816","1,132",237.1
+Daily Visitation,February 18,"2,648","2,117",25.1
+Daily Visitation,February 19,"1,751","2,919",-40.0
+Daily Visitation,February 20,"1,019","2,012",-49.4
+Daily Visitation,February 21,"2,110","1,587",33.0
+Daily Visitation,February 22,"1,072","1,320",-18.8
+Daily Visitation,February 23,"1,308","1,192",9.7
+Daily Visitation,February 24,"2,071","1,397",48.2
+Daily Visitation,February 25,577,"3,354",-82.8
+Daily Visitation,February 26,520,"1,923",-73.0
+Daily Visitation,February 27,778,728,6.9
+Daily Visitation,February 28,680,604,12.6
+Daily Visitation,February 29,663,-182,-464.3
+Daily Visitation,February 30,-182,-182,0.0
+Daily Visitation,February 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"22,311","23,286",-4.2,"36,582","41,397",-11.6,"156,768"
+Non-Recreation Visitors,"12,550","13,099",-4.2,"18,666","20,860",-10.5,"68,654"
+Total Visitors,"34,861","36,385",-4.2,"55,248","62,258",-11.3,"225,422"
+

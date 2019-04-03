@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Mar 2016,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,March 1,"1,436","1,568",-8.4
+Daily Visitation,March 2,"1,372","1,162",18.1
+Daily Visitation,March 3,"1,360",319,326.3
+Daily Visitation,March 4,"1,937","1,038",86.6
+Daily Visitation,March 5,"3,690","1,372",169.0
+Daily Visitation,March 6,"4,362","1,830",138.4
+Daily Visitation,March 7,"1,677","3,238",-48.2
+Daily Visitation,March 8,"2,097","3,034",-30.9
+Daily Visitation,March 9,"2,532","1,839",37.7
+Daily Visitation,March 10,"2,458","2,058",19.4
+Daily Visitation,March 11,"3,108","2,349",32.3
+Daily Visitation,March 12,"5,091","2,102",142.2
+Daily Visitation,March 13,"4,695","2,606",80.2
+Daily Visitation,March 14,"2,923","4,643",-37.0
+Daily Visitation,March 15,"2,760","4,872",-43.3
+Daily Visitation,March 16,"2,628","2,212",18.8
+Daily Visitation,March 17,"2,657","1,999",32.9
+Daily Visitation,March 18,"3,074","2,445",25.7
+Daily Visitation,March 19,"4,765","2,601",83.2
+Daily Visitation,March 20,"4,468","3,747",19.2
+Daily Visitation,March 21,"4,235","4,838",-12.5
+Daily Visitation,March 22,"3,080","3,374",-8.7
+Daily Visitation,March 23,"1,836","2,593",-29.2
+Daily Visitation,March 24,"3,805","2,739",38.9
+Daily Visitation,March 25,"2,689","2,741",-1.9
+Daily Visitation,March 26,"6,293","2,884",118.2
+Daily Visitation,March 27,"5,560","3,445",61.4
+Daily Visitation,March 28,"3,582","5,031",-28.8
+Daily Visitation,March 29,"3,253","4,051",-19.7
+Daily Visitation,March 30,"2,338","3,715",-37.1
+Daily Visitation,March 31,"2,648","3,960",-33.1
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"65,943","57,898",13.9,"117,426","105,966",10.8,"296,167"
+Non-Recreation Visitors,"32,479","28,517",13.9,"58,451","52,512",11.3,"131,402"
+Total Visitors,"98,422","86,415",13.9,"175,878","158,477",11.0,"427,569"
+

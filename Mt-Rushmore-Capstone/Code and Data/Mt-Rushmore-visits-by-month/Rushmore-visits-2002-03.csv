@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Mar 2002,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,March 1,"1,302",986,32.0
+Daily Visitation,March 2,"1,973","1,219",61.9
+Daily Visitation,March 3,"1,330","1,951",-31.8
+Daily Visitation,March 4,"1,237","1,982",-37.6
+Daily Visitation,March 5,"1,489","1,010",47.4
+Daily Visitation,March 6,"1,232","1,106",11.4
+Daily Visitation,March 7,"1,374","1,111",23.7
+Daily Visitation,March 8,"1,262","1,198",5.3
+Daily Visitation,March 9,"1,948","1,559",25.0
+Daily Visitation,March 10,"1,898","1,666",13.9
+Daily Visitation,March 11,"1,856","1,394",33.1
+Daily Visitation,March 12,"1,820","1,237",47.1
+Daily Visitation,March 13,"1,248","1,361",-8.3
+Daily Visitation,March 14,"1,220","1,142",6.8
+Daily Visitation,March 15,"1,919","1,226",56.5
+Daily Visitation,March 16,"2,229","1,895",17.6
+Daily Visitation,March 17,"2,047","2,396",-14.6
+Daily Visitation,March 18,"1,845","2,042",-9.6
+Daily Visitation,March 19,"2,123","1,403",51.3
+Daily Visitation,March 20,"1,397","1,324",5.5
+Daily Visitation,March 21,"1,778","1,391",27.8
+Daily Visitation,March 22,"2,103","1,181",78.1
+Daily Visitation,March 23,"2,895","1,290",124.4
+Daily Visitation,March 24,"1,710","2,559",-33.2
+Daily Visitation,March 25,"2,075","2,104",-1.4
+Daily Visitation,March 26,"2,614","1,505",73.7
+Daily Visitation,March 27,"2,191","1,564",40.1
+Daily Visitation,March 28,"2,193","1,614",35.9
+Daily Visitation,March 29,"2,948","1,701",73.3
+Daily Visitation,March 30,"3,092","1,607",92.4
+Daily Visitation,March 31,"3,379","2,963",14.0
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"40,027","32,630",22.7,"91,923","66,513",38.2,"233,787"
+Non-Recreation Visitors,"19,715","16,071",22.7,"45,515","32,714",39.1,"105,594"
+Total Visitors,"59,741","48,701",22.7,"137,439","99,228",38.5,"339,380"
+

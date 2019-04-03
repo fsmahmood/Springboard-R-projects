@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Mar 2010,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,March 1,"1,285","1,148",11.9
+Daily Visitation,March 2,"1,251",943,32.7
+Daily Visitation,March 3,"1,142","1,187",-3.8
+Daily Visitation,March 4,"1,386","1,226",13.1
+Daily Visitation,March 5,"1,030","1,040",-1.0
+Daily Visitation,March 6,"1,808","1,374",31.6
+Daily Visitation,March 7,"2,046","1,845",10.9
+Daily Visitation,March 8,"1,584","1,377",15.0
+Daily Visitation,March 9,"1,489",823,80.9
+Daily Visitation,March 10,"1,019",826,23.4
+Daily Visitation,March 11,"1,342",778,72.5
+Daily Visitation,March 12,"1,806","1,428",26.5
+Daily Visitation,March 13,"3,146","1,584",98.6
+Daily Visitation,March 14,"2,382","2,650",-10.1
+Daily Visitation,March 15,"2,169","2,758",-21.4
+Daily Visitation,March 16,"2,245","2,078",8.0
+Daily Visitation,March 17,"2,282","1,831",24.6
+Daily Visitation,March 18,"1,693","1,782",-5.0
+Daily Visitation,March 19,"1,902","2,315",-17.8
+Daily Visitation,March 20,"3,921","3,050",28.6
+Daily Visitation,March 21,"2,909","5,092",-42.9
+Daily Visitation,March 22,"1,897","2,824",-32.8
+Daily Visitation,March 23,"1,397",266,425.2
+Daily Visitation,March 24,"2,058",344,498.3
+Daily Visitation,March 25,"2,019","1,271",58.9
+Daily Visitation,March 26,"2,706","1,238",118.6
+Daily Visitation,March 27,"3,073","1,627",88.9
+Daily Visitation,March 28,"3,704","2,451",51.1
+Daily Visitation,March 29,"2,828","1,430",97.8
+Daily Visitation,March 30,"2,848",212,"1,243.4"
+Daily Visitation,March 31,"2,481",775,220.1
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"43,456","33,223",30.8,"80,600","70,047",15.1,"212,860"
+Non-Recreation Visitors,"21,404","16,363",30.8,"39,876","34,619",15.2,"95,363"
+Total Visitors,"64,860","49,586",30.8,"120,476","104,666",15.1,"308,223"
+

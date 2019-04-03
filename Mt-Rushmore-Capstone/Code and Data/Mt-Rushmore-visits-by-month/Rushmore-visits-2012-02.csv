@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Feb 2012,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,February 1,"1,411",747,88.9
+Daily Visitation,February 2,979,758,29.2
+Daily Visitation,February 3,"1,208",828,45.9
+Daily Visitation,February 4,"1,314",999,31.5
+Daily Visitation,February 5,"1,382","1,027",34.6
+Daily Visitation,February 6,"1,122",562,99.6
+Daily Visitation,February 7,798,532,50.0
+Daily Visitation,February 8,"1,137",772,47.3
+Daily Visitation,February 9,999,865,15.5
+Daily Visitation,February 10,912,"1,022",-10.8
+Daily Visitation,February 11,"1,511","1,052",43.6
+Daily Visitation,February 12,"1,343","1,842",-27.1
+Daily Visitation,February 13,"1,055","1,666",-36.7
+Daily Visitation,February 14,"1,150","1,016",13.2
+Daily Visitation,February 15,"1,030","1,246",-17.3
+Daily Visitation,February 16,"1,080","1,150",-6.1
+Daily Visitation,February 17,"1,464","1,038",41.0
+Daily Visitation,February 18,"2,984","1,248",139.1
+Daily Visitation,February 19,"2,251","1,649",36.5
+Daily Visitation,February 20,971,529,83.6
+Daily Visitation,February 21,"1,201",814,47.5
+Daily Visitation,February 22,"1,022",898,13.8
+Daily Visitation,February 23,"1,002","1,050",-4.6
+Daily Visitation,February 24,752,630,19.4
+Daily Visitation,February 25,"1,843",820,124.8
+Daily Visitation,February 26,"1,150","1,428",-19.5
+Daily Visitation,February 27,991,"1,094",-9.4
+Daily Visitation,February 28,786,848,-7.3
+Daily Visitation,February 29,963,0,Infinity
+Daily Visitation,February 30,0,0,NaN
+Daily Visitation,February 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"22,928","18,011",27.3,"43,434","34,081",27.4,"196,428"
+Non-Recreation Visitors,"12,897","10,131",27.3,"21,685","17,018",27.4,"84,026"
+Total Visitors,"35,825","28,143",27.3,"65,119","51,100",27.4,"280,454"
+

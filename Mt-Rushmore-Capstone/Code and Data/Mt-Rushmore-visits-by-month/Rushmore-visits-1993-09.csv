@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Sep 1993,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,September 1,"8,205",0,Infinity
+Daily Visitation,September 2,"8,289",0,Infinity
+Daily Visitation,September 3,"9,745",0,Infinity
+Daily Visitation,September 4,"15,668",0,Infinity
+Daily Visitation,September 5,"10,598",0,Infinity
+Daily Visitation,September 6,"12,862",0,Infinity
+Daily Visitation,September 7,"8,058",0,Infinity
+Daily Visitation,September 8,"8,307",0,Infinity
+Daily Visitation,September 9,"7,765",0,Infinity
+Daily Visitation,September 10,"8,016",0,Infinity
+Daily Visitation,September 11,"10,403",0,Infinity
+Daily Visitation,September 12,"8,950",0,Infinity
+Daily Visitation,September 13,"6,871",0,Infinity
+Daily Visitation,September 14,"8,275",0,Infinity
+Daily Visitation,September 15,"7,896",0,Infinity
+Daily Visitation,September 16,"7,325",0,Infinity
+Daily Visitation,September 17,"5,670",0,Infinity
+Daily Visitation,September 18,"6,328",0,Infinity
+Daily Visitation,September 19,"8,570",0,Infinity
+Daily Visitation,September 20,"8,259",0,Infinity
+Daily Visitation,September 21,"6,741",0,Infinity
+Daily Visitation,September 22,"6,206",0,Infinity
+Daily Visitation,September 23,"6,892",0,Infinity
+Daily Visitation,September 24,"5,616",0,Infinity
+Daily Visitation,September 25,"5,608",0,Infinity
+Daily Visitation,September 26,"5,427",0,Infinity
+Daily Visitation,September 27,"5,033",0,Infinity
+Daily Visitation,September 28,"4,679",0,Infinity
+Daily Visitation,September 29,"5,770",0,Infinity
+Daily Visitation,September 30,"4,232",0,Infinity
+Daily Visitation,September 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"204,474",,0.0,"1,835,780",,0.0,"1,835,780"
+Non-Recreation Visitors,"27,883",,0.0,"637,244",,0.0,"637,244"
+Total Visitors,"232,357",,0.0,"2,473,024",,0.0,"2,473,024"
+

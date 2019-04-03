@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Oct 2014,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,October 1,"5,866","12,965",-54.8
+Daily Visitation,October 2,"5,870","3,090",90.0
+Daily Visitation,October 3,"5,578","3,707",50.5
+Daily Visitation,October 4,"7,807",0,Infinity
+Daily Visitation,October 5,"5,751",0,Infinity
+Daily Visitation,October 6,"4,708",0,Infinity
+Daily Visitation,October 7,"4,943","3,630",36.2
+Daily Visitation,October 8,"4,825","2,722",77.3
+Daily Visitation,October 9,"4,791","2,330",105.6
+Daily Visitation,October 10,"4,919","2,320",112.0
+Daily Visitation,October 11,"6,652","1,572",323.2
+Daily Visitation,October 12,"3,900","3,677",6.1
+Daily Visitation,October 13,"5,095","3,112",63.7
+Daily Visitation,October 14,"4,579","2,673",71.3
+Daily Visitation,October 15,"4,231","2,106",100.9
+Daily Visitation,October 16,"4,470","2,938",52.1
+Daily Visitation,October 17,"6,282","2,759",127.7
+Daily Visitation,October 18,"6,157","1,917",221.2
+Daily Visitation,October 19,"4,480","4,485",-0.1
+Daily Visitation,October 20,"3,072","2,480",23.9
+Daily Visitation,October 21,"3,190","2,185",46.0
+Daily Visitation,October 22,"3,139","2,515",24.8
+Daily Visitation,October 23,"2,832","2,336",21.2
+Daily Visitation,October 24,"3,135","2,309",35.8
+Daily Visitation,October 25,"4,627","2,899",59.6
+Daily Visitation,October 26,"3,522","3,580",-1.6
+Daily Visitation,October 27,"2,875","2,850",0.9
+Daily Visitation,October 28,"2,222","1,125",97.5
+Daily Visitation,October 29,"2,318","1,147",102.1
+Daily Visitation,October 30,"1,909","1,487",28.4
+Daily Visitation,October 31,"1,675","1,907",-12.2
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"100,216","61,295",63.5,"2,090,379","2,109,541",-0.9,"100,216"
+Non-Recreation Visitors,"35,211","21,536",63.5,"721,934","719,635",0.3,"35,211"
+Total Visitors,"135,428","82,831",63.5,"2,812,313","2,829,176",-0.6,"135,428"
+

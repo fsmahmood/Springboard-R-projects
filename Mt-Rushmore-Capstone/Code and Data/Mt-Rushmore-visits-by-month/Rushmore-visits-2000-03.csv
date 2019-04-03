@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Mar 2000,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,March 1,"1,299",840,54.6
+Daily Visitation,March 2,"1,341",796,68.5
+Daily Visitation,March 3,"1,436",798,79.9
+Daily Visitation,March 4,"2,926","1,011",189.4
+Daily Visitation,March 5,"2,760",504,447.6
+Daily Visitation,March 6,"1,134","1,573",-27.9
+Daily Visitation,March 7,"1,162",906,28.3
+Daily Visitation,March 8,246,736,-66.6
+Daily Visitation,March 9,663,845,-21.5
+Daily Visitation,March 10,"1,162",599,94.0
+Daily Visitation,March 11,"2,298",816,181.6
+Daily Visitation,March 12,"1,509","1,004",50.3
+Daily Visitation,March 13,"1,280","2,158",-40.7
+Daily Visitation,March 14,"1,459","2,297",-36.5
+Daily Visitation,March 15,"1,055","1,106",-4.6
+Daily Visitation,March 16,"1,744","1,487",17.3
+Daily Visitation,March 17,"1,811","1,215",49.1
+Daily Visitation,March 18,"2,878","1,576",82.6
+Daily Visitation,March 19,"1,604","1,895",-15.4
+Daily Visitation,March 20,769,"3,296",-76.7
+Daily Visitation,March 21,"1,244","2,402",-48.2
+Daily Visitation,March 22,"1,349","1,408",-4.2
+Daily Visitation,March 23,"1,464","1,643",-10.9
+Daily Visitation,March 24,"2,125","1,541",37.9
+Daily Visitation,March 25,"4,418","2,045",116.0
+Daily Visitation,March 26,"2,510","2,150",16.7
+Daily Visitation,March 27,"1,974","3,287",-39.9
+Daily Visitation,March 28,"1,943","2,699",-28.0
+Daily Visitation,March 29,"1,593","2,184",-27.1
+Daily Visitation,March 30,"1,780","2,214",-19.6
+Daily Visitation,March 31,"2,074","1,975",5.0
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"35,523","32,840",8.2,"69,452","63,456",9.4,"189,536"
+Non-Recreation Visitors,"17,496","16,175",8.2,"34,481","31,788",8.5,"83,987"
+Total Visitors,"53,019","49,016",8.2,"103,933","95,244",9.1,"273,523"
+

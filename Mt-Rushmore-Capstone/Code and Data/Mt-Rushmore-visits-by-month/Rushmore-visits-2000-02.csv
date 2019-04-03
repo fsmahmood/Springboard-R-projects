@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Feb 2000,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,February 1,809,658,22.9
+Daily Visitation,February 2,831,753,10.4
+Daily Visitation,February 3,697,666,4.7
+Daily Visitation,February 4,"1,020",736,38.6
+Daily Visitation,February 5,"1,446","1,095",32.1
+Daily Visitation,February 6,"1,492","1,761",-15.3
+Daily Visitation,February 7,727,"1,517",-52.1
+Daily Visitation,February 8,775,683,13.5
+Daily Visitation,February 9,725,870,-16.7
+Daily Visitation,February 10,644,529,21.7
+Daily Visitation,February 11,800,560,42.9
+Daily Visitation,February 12,"1,050",837,25.4
+Daily Visitation,February 13,646,"2,195",-70.6
+Daily Visitation,February 14,662,"2,192",-69.8
+Daily Visitation,February 15,711,879,-19.1
+Daily Visitation,February 16,856,856,0.0
+Daily Visitation,February 17,820,802,2.2
+Daily Visitation,February 18,963,895,7.6
+Daily Visitation,February 19,"1,570","1,082",45.1
+Daily Visitation,February 20,"2,091",946,121.0
+Daily Visitation,February 21,"1,849",898,105.9
+Daily Visitation,February 22,"1,012",596,69.8
+Daily Visitation,February 23,"1,008",677,48.9
+Daily Visitation,February 24,982,831,18.2
+Daily Visitation,February 25,537,949,-43.4
+Daily Visitation,February 26,834,"1,153",-27.7
+Daily Visitation,February 27,"1,309","1,660",-21.1
+Daily Visitation,February 28,828,"2,142",-61.3
+Daily Visitation,February 29,976,-182,-636.3
+Daily Visitation,February 30,-182,-182,0.0
+Daily Visitation,February 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"18,249","18,602",-1.9,"33,929","30,616",10.8,"154,013"
+Non-Recreation Visitors,"10,265","10,464",-1.9,"16,985","15,612",8.8,"66,491"
+Total Visitors,"28,514","29,065",-1.9,"50,914","46,228",10.1,"220,504"
+

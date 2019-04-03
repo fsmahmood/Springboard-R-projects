@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Aug 2015,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,August 1,"32,635","21,486",51.9
+Daily Visitation,August 2,"41,098","27,951",47.0
+Daily Visitation,August 3,"46,139","31,280",47.5
+Daily Visitation,August 4,"38,295","34,176",12.1
+Daily Visitation,August 5,"40,375","27,461",47.0
+Daily Visitation,August 6,"38,284","23,590",62.3
+Daily Visitation,August 7,"31,286","33,660",-7.1
+Daily Visitation,August 8,"21,316","23,883",-10.7
+Daily Visitation,August 9,"20,695","23,366",-11.4
+Daily Visitation,August 10,"22,307","20,225",10.3
+Daily Visitation,August 11,"23,052","20,762",11.0
+Daily Visitation,August 12,"22,007","19,378",13.6
+Daily Visitation,August 13,"21,298","19,794",7.6
+Daily Visitation,August 14,"22,307","19,340",15.3
+Daily Visitation,August 15,"23,348","19,477",19.9
+Daily Visitation,August 16,"21,059","21,644",-2.7
+Daily Visitation,August 17,"17,226","17,876",-3.6
+Daily Visitation,August 18,"17,365","18,920",-8.2
+Daily Visitation,August 19,"20,768","17,968",15.6
+Daily Visitation,August 20,"32,484","16,623",95.4
+Daily Visitation,August 21,"18,336","15,394",19.1
+Daily Visitation,August 22,"19,247","15,188",26.7
+Daily Visitation,August 23,"17,649","15,981",10.4
+Daily Visitation,August 24,"14,842","15,829",-6.2
+Daily Visitation,August 25,"15,354","14,159",8.4
+Daily Visitation,August 26,"14,186","13,014",9.0
+Daily Visitation,August 27,"12,555","11,617",8.1
+Daily Visitation,August 28,"14,044","13,084",7.3
+Daily Visitation,August 29,"15,725","14,409",9.1
+Daily Visitation,August 30,"13,511","24,532",-44.9
+Daily Visitation,August 31,"11,907","21,309",-44.1
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"526,111","462,364",13.8,"1,950,852","1,740,475",12.1,"2,105,497"
+Non-Recreation Visitors,"194,589","171,012",13.8,"736,292","652,675",12.8,"799,279"
+Total Visitors,"720,700","633,376",13.8,"2,687,144","2,393,150",12.3,"2,904,776"
+

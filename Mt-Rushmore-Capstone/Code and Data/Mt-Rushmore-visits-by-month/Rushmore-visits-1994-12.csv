@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Dec 1994,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,December 1,912,731,24.8
+Daily Visitation,December 2,"1,039",626,66.0
+Daily Visitation,December 3,"1,047",688,52.2
+Daily Visitation,December 4,405,"1,118",-63.8
+Daily Visitation,December 5,432,466,-7.3
+Daily Visitation,December 6,691,461,49.9
+Daily Visitation,December 7,758,733,3.4
+Daily Visitation,December 8,828,731,13.3
+Daily Visitation,December 9,723,588,23.0
+Daily Visitation,December 10,685,831,-17.6
+Daily Visitation,December 11,629,928,-32.2
+Daily Visitation,December 12,723,731,-1.1
+Daily Visitation,December 13,845,564,49.8
+Daily Visitation,December 14,610,753,-19.0
+Daily Visitation,December 15,758,583,30.0
+Daily Visitation,December 16,969,234,314.1
+Daily Visitation,December 17,785,572,37.2
+Daily Visitation,December 18,891,834,6.8
+Daily Visitation,December 19,850,738,15.2
+Daily Visitation,December 20,899,764,17.7
+Daily Visitation,December 21,855,634,34.9
+Daily Visitation,December 22,"1,009",572,76.4
+Daily Visitation,December 23,"1,063",529,100.9
+Daily Visitation,December 24,955,378,152.6
+Daily Visitation,December 25,988,866,14.1
+Daily Visitation,December 26,"1,757","1,471",19.4
+Daily Visitation,December 27,"2,003","1,047",91.3
+Daily Visitation,December 28,"1,930","1,719",12.3
+Daily Visitation,December 29,"1,652","1,563",5.7
+Daily Visitation,December 30,"1,471","1,725",-14.7
+Daily Visitation,December 31,"1,196","1,136",5.3
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"20,957","17,478",19.9,"2,073,910","1,950,200",6.3,"117,180"
+Non-Recreation Visitors,"9,415","7,852",19.9,"724,304","683,626",6.0,"48,215"
+Total Visitors,"30,372","25,330",19.9,"2,798,214","2,633,826",6.2,"165,396"
+

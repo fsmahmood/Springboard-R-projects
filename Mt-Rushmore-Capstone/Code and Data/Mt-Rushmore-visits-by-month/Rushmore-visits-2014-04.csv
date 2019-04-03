@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Apr 2014,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,April 1,"1,655","2,386",-30.6
+Daily Visitation,April 2,"1,266","2,728",-53.6
+Daily Visitation,April 3,"2,259","2,691",-16.1
+Daily Visitation,April 4,"2,481","2,736",-9.3
+Daily Visitation,April 5,"3,512","2,778",26.4
+Daily Visitation,April 6,"2,397","3,418",-29.9
+Daily Visitation,April 7,"1,674","2,391",-30.0
+Daily Visitation,April 8,"2,122","1,919",10.6
+Daily Visitation,April 9,"2,582","1,782",44.9
+Daily Visitation,April 10,"1,979",510,288.0
+Daily Visitation,April 11,"2,694","1,155",133.2
+Daily Visitation,April 12,"3,478","1,555",123.7
+Daily Visitation,April 13,"2,008","2,370",-15.3
+Daily Visitation,April 14,"2,138","1,544",38.5
+Daily Visitation,April 15,"2,882","1,551",85.8
+Daily Visitation,April 16,"2,007","1,655",21.3
+Daily Visitation,April 17,"2,583",934,176.6
+Daily Visitation,April 18,"4,085","1,449",181.9
+Daily Visitation,April 19,"4,539","1,988",128.3
+Daily Visitation,April 20,"6,258","3,214",94.7
+Daily Visitation,April 21,"2,608","1,950",33.7
+Daily Visitation,April 22,"2,980","2,116",40.8
+Daily Visitation,April 23,"2,902","2,176",33.4
+Daily Visitation,April 24,"1,732","2,146",-19.3
+Daily Visitation,April 25,"3,367","3,321",1.4
+Daily Visitation,April 26,"4,436","3,353",32.3
+Daily Visitation,April 27,"2,521","5,309",-52.5
+Daily Visitation,April 28,"2,444","3,550",-31.2
+Daily Visitation,April 29,"2,067","3,002",-31.1
+Daily Visitation,April 30,"2,748","2,836",-3.1
+Daily Visitation,April 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"51,923","44,431",16.9,"132,673","130,022",2.0,"247,423"
+Non-Recreation Visitors,"30,494","26,094",16.9,"70,452","68,541",2.8,"119,654"
+Total Visitors,"82,417","70,525",16.9,"203,125","198,563",2.3,"367,078"
+

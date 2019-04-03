@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Jun 2012,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,June 1,"12,314","10,923",12.7
+Daily Visitation,June 2,"15,045","12,893",16.7
+Daily Visitation,June 3,"16,227","12,649",28.3
+Daily Visitation,June 4,"14,828","14,578",1.7
+Daily Visitation,June 5,"14,925","15,826",-5.7
+Daily Visitation,June 6,"13,964","17,586",-20.6
+Daily Visitation,June 7,"12,528","15,814",-20.8
+Daily Visitation,June 8,"12,461","13,701",-9.1
+Daily Visitation,June 9,"18,083","11,813",53.1
+Daily Visitation,June 10,"17,246","15,297",12.7
+Daily Visitation,June 11,"18,484","16,549",11.7
+Daily Visitation,June 12,"17,448","16,318",6.9
+Daily Visitation,June 13,"16,383","17,040",-3.9
+Daily Visitation,June 14,"17,311","16,426",5.4
+Daily Visitation,June 15,"16,717","17,514",-4.6
+Daily Visitation,June 16,"20,375","14,550",40.0
+Daily Visitation,June 17,"19,517","16,321",19.6
+Daily Visitation,June 18,"19,906","18,275",8.9
+Daily Visitation,June 19,"20,026","17,470",14.6
+Daily Visitation,June 20,"19,163","16,377",17.0
+Daily Visitation,June 21,"19,727","19,244",2.5
+Daily Visitation,June 22,"19,728","21,560",-8.5
+Daily Visitation,June 23,"21,642","19,193",12.8
+Daily Visitation,June 24,"20,757","18,783",10.5
+Daily Visitation,June 25,"21,138","20,029",5.5
+Daily Visitation,June 26,"21,176","19,859",6.6
+Daily Visitation,June 27,"20,915","22,005",-5.0
+Daily Visitation,June 28,"19,430","20,995",-7.5
+Daily Visitation,June 29,"20,263","19,359",4.7
+Daily Visitation,June 30,"23,346","18,009",29.6
+Daily Visitation,June 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"389,583","365,017",6.7,"726,318","639,190",13.6,"879,312"
+Non-Recreation Visitors,"151,504","141,951",6.7,"291,290","255,257",14.1,"353,631"
+Total Visitors,"541,087","506,969",6.7,"1,017,608","894,447",13.8,"1,232,943"
+

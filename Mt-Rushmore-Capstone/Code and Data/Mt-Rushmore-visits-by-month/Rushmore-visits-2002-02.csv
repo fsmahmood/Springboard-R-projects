@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Feb 2002,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,February 1,"1,293",842,53.6
+Daily Visitation,February 2,"1,988",887,124.1
+Daily Visitation,February 3,"1,600","1,562",2.4
+Daily Visitation,February 4,"1,078","1,374",-21.5
+Daily Visitation,February 5,"1,497",820,82.6
+Daily Visitation,February 6,"1,402",837,67.5
+Daily Visitation,February 7,"1,414",417,239.1
+Daily Visitation,February 8,"1,341",644,108.2
+Daily Visitation,February 9,954,632,50.9
+Daily Visitation,February 10,"1,434",921,55.7
+Daily Visitation,February 11,"1,136",616,84.4
+Daily Visitation,February 12,"1,344",660,103.6
+Daily Visitation,February 13,"1,296",672,92.9
+Daily Visitation,February 14,"1,288",806,59.8
+Daily Visitation,February 15,"1,579",789,100.1
+Daily Visitation,February 16,"2,945",834,253.1
+Daily Visitation,February 17,"2,738","1,430",91.5
+Daily Visitation,February 18,"1,535","1,867",-17.8
+Daily Visitation,February 19,"1,190",908,31.1
+Daily Visitation,February 20,"1,476",921,60.3
+Daily Visitation,February 21,"1,604",882,81.9
+Daily Visitation,February 22,"1,878","1,016",84.8
+Daily Visitation,February 23,"1,691",798,111.9
+Daily Visitation,February 24,"1,203",571,110.7
+Daily Visitation,February 25,"1,038",918,13.1
+Daily Visitation,February 26,"1,240",778,59.4
+Daily Visitation,February 27,"1,383",904,53.0
+Daily Visitation,February 28,"1,313",798,64.5
+Daily Visitation,February 29,-182,-182,0.0
+Daily Visitation,February 30,-182,-182,0.0
+Daily Visitation,February 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"26,576","15,840",67.8,"51,897","33,884",53.2,"193,760"
+Non-Recreation Visitors,"14,949","8,910",67.8,"25,801","16,643",55.0,"85,879"
+Total Visitors,"41,525","24,750",67.8,"77,697","50,527",53.8,"279,639"
+

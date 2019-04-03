@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Jan 2010,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,January 1,"1,159","1,166",-0.6
+Daily Visitation,January 2,"1,291","1,490",-13.4
+Daily Visitation,January 3,801,933,-14.1
+Daily Visitation,January 4,441,794,-44.5
+Daily Visitation,January 5,856,669,28.0
+Daily Visitation,January 6,775,765,1.3
+Daily Visitation,January 7,"1,058",604,75.2
+Daily Visitation,January 8,640,866,-26.1
+Daily Visitation,January 9,859,667,28.8
+Daily Visitation,January 10,789,861,-8.4
+Daily Visitation,January 11,792,918,-13.7
+Daily Visitation,January 12,933,602,55.0
+Daily Visitation,January 13,777,662,17.4
+Daily Visitation,January 14,794,550,44.4
+Daily Visitation,January 15,"1,046",645,62.2
+Daily Visitation,January 16,"1,528",698,118.9
+Daily Visitation,January 17,"1,402","1,224",14.5
+Daily Visitation,January 18,760,"1,303",-41.7
+Daily Visitation,January 19,823,"1,420",-42.0
+Daily Visitation,January 20,680,"1,083",-37.2
+Daily Visitation,January 21,765,828,-7.6
+Daily Visitation,January 22,631,832,-24.2
+Daily Visitation,January 23,801,597,34.2
+Daily Visitation,January 24,456,755,-39.6
+Daily Visitation,January 25,556,571,-2.6
+Daily Visitation,January 26,703,566,24.2
+Daily Visitation,January 27,756,597,26.6
+Daily Visitation,January 28,301,768,-60.8
+Daily Visitation,January 29,444,861,-48.4
+Daily Visitation,January 30,"1,310",652,100.9
+Daily Visitation,January 31,890,"1,257",-29.2
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"18,081","18,354",-1.5,"18,081","18,354",-1.5,"150,340"
+Non-Recreation Visitors,"7,749","7,866",-1.5,"7,749","7,866",-1.5,"63,236"
+Total Visitors,"25,830","26,220",-1.5,"25,830","26,220",-1.5,"213,577"
+

@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Apr 2010,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,April 1,"2,273","1,136",100.1
+Daily Visitation,April 2,"2,716","1,382",96.5
+Daily Visitation,April 3,"3,963",982,303.6
+Daily Visitation,April 4,"4,154",558,644.4
+Daily Visitation,April 5,"2,052",261,686.2
+Daily Visitation,April 6,"1,784","1,493",19.5
+Daily Visitation,April 7,"2,675","1,907",40.3
+Daily Visitation,April 8,"2,654","2,783",-4.6
+Daily Visitation,April 9,"2,297","1,371",67.5
+Daily Visitation,April 10,"3,309","2,783",18.9
+Daily Visitation,April 11,"3,050","3,623",-15.8
+Daily Visitation,April 12,"2,184","2,838",-23.0
+Daily Visitation,April 13,"2,098","1,979",6.0
+Daily Visitation,April 14,"2,329","2,251",3.5
+Daily Visitation,April 15,"2,335","2,092",11.6
+Daily Visitation,April 16,"2,605","1,696",53.6
+Daily Visitation,April 17,"4,150","1,570",164.3
+Daily Visitation,April 18,"3,060","2,365",29.4
+Daily Visitation,April 19,"2,491","4,334",-42.5
+Daily Visitation,April 20,"2,489","2,135",16.6
+Daily Visitation,April 21,"2,743","2,311",18.7
+Daily Visitation,April 22,"2,664","2,789",-4.5
+Daily Visitation,April 23,"2,327","2,910",-20.0
+Daily Visitation,April 24,"4,298","2,052",109.5
+Daily Visitation,April 25,"2,737","3,515",-22.1
+Daily Visitation,April 26,"2,950","1,550",90.3
+Daily Visitation,April 27,"3,388","2,211",53.2
+Daily Visitation,April 28,"3,393","2,061",64.6
+Daily Visitation,April 29,"2,978","2,359",26.2
+Daily Visitation,April 30,"2,956","2,454",20.5
+Daily Visitation,April 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"53,623","40,173",33.5,"134,224","110,221",21.8,"266,483"
+Non-Recreation Visitors,"31,493","23,594",33.5,"71,369","58,213",22.6,"126,856"
+Total Visitors,"85,117","63,767",33.5,"205,592","168,434",22.1,"393,339"
+

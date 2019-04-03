@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Sep 2015,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,September 1,"10,446","13,784",-24.2
+Daily Visitation,September 2,"10,188","10,222",-0.3
+Daily Visitation,September 3,"10,242","10,724",-4.5
+Daily Visitation,September 4,"10,213","10,426",-2.0
+Daily Visitation,September 5,"21,616","10,651",102.9
+Daily Visitation,September 6,"22,841","12,558",81.9
+Daily Visitation,September 7,"13,652","11,715",16.5
+Daily Visitation,September 8,"11,046","11,769",-6.1
+Daily Visitation,September 9,"11,568","10,049",15.1
+Daily Visitation,September 10,"11,191","8,510",31.5
+Daily Visitation,September 11,"12,321","7,404",66.4
+Daily Visitation,September 12,"13,760","1,434",859.6
+Daily Visitation,September 13,"12,085","11,292",7.0
+Daily Visitation,September 14,"11,416","9,844",16.0
+Daily Visitation,September 15,"11,645","9,642",20.8
+Daily Visitation,September 16,"11,973","10,793",10.9
+Daily Visitation,September 17,"11,257","9,808",14.8
+Daily Visitation,September 18,"9,109","10,088",-9.7
+Daily Visitation,September 19,"11,474","9,888",16.0
+Daily Visitation,September 20,"10,906","10,625",2.6
+Daily Visitation,September 21,"9,734","9,086",7.1
+Daily Visitation,September 22,"9,800","7,876",24.4
+Daily Visitation,September 23,"10,467","8,243",27.0
+Daily Visitation,September 24,"11,418","8,848",29.0
+Daily Visitation,September 25,"10,906","9,646",13.1
+Daily Visitation,September 26,"12,978","9,304",39.5
+Daily Visitation,September 27,"9,593","11,197",-14.3
+Daily Visitation,September 28,"6,240","7,479",-16.6
+Daily Visitation,September 29,"8,146","5,049",61.3
+Daily Visitation,September 30,"8,016","5,774",38.8
+Daily Visitation,September 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"304,704","249,687",22.0,"2,255,556","1,990,163",13.3,"2,410,202"
+Non-Recreation Visitors,"41,551","34,048",22.0,"777,843","686,723",13.3,"840,830"
+Total Visitors,"346,255","283,736",22.0,"3,033,399","2,676,886",13.3,"3,251,031"
+

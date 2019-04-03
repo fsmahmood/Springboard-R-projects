@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: May 1994,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,May 1,"3,450","3,164",9.0
+Daily Visitation,May 2,"2,402","3,736",-35.7
+Daily Visitation,May 3,"3,040","3,340",-9.0
+Daily Visitation,May 4,"3,153","3,596",-12.3
+Daily Visitation,May 5,"2,629","2,301",14.3
+Daily Visitation,May 6,"2,955","3,481",-15.1
+Daily Visitation,May 7,"5,413","3,477",55.7
+Daily Visitation,May 8,"5,477","3,340",64.0
+Daily Visitation,May 9,"3,635","5,205",-30.2
+Daily Visitation,May 10,"4,592","3,917",17.2
+Daily Visitation,May 11,"4,125","3,877",6.4
+Daily Visitation,May 12,"4,271","3,870",10.4
+Daily Visitation,May 13,"3,964","4,192",-5.4
+Daily Visitation,May 14,"6,269","4,045",55.0
+Daily Visitation,May 15,"6,826","5,343",27.8
+Daily Visitation,May 16,"5,647","5,927",-4.7
+Daily Visitation,May 17,"5,542","4,810",15.2
+Daily Visitation,May 18,"5,904","4,918",20.0
+Daily Visitation,May 19,"5,625","4,818",16.7
+Daily Visitation,May 20,"6,008","4,805",25.0
+Daily Visitation,May 21,"8,218","5,018",63.8
+Daily Visitation,May 22,"9,084","6,391",42.1
+Daily Visitation,May 23,"6,986","7,002",-0.2
+Daily Visitation,May 24,"7,527","5,874",28.1
+Daily Visitation,May 25,"7,188","6,611",8.7
+Daily Visitation,May 26,"7,406","6,162",20.2
+Daily Visitation,May 27,"8,777","6,193",41.7
+Daily Visitation,May 28,"15,279","6,684",128.6
+Daily Visitation,May 29,"18,852","14,388",31.0
+Daily Visitation,May 30,"13,115","16,058",-18.3
+Daily Visitation,May 31,"9,082","11,374",-20.2
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"154,627","132,355",16.8,"272,357","234,255",16.3,"386,776"
+Non-Recreation Visitors,"48,829","41,796",16.8,"111,593","96,424",15.7,"157,976"
+Total Visitors,"203,456","174,152",16.8,"383,951","330,679",16.1,"544,752"
+

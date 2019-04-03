@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Jul 2012,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,July 1,"27,206","20,136",35.1
+Daily Visitation,July 2,"26,875","27,111",-0.9
+Daily Visitation,July 3,"27,663","35,563",-22.2
+Daily Visitation,July 4,"31,736","28,778",10.3
+Daily Visitation,July 5,"24,883","21,868",13.8
+Daily Visitation,July 6,"24,876","23,674",5.1
+Daily Visitation,July 7,"24,336","24,615",-1.1
+Daily Visitation,July 8,"23,670","22,212",6.6
+Daily Visitation,July 9,"24,760","24,328",1.8
+Daily Visitation,July 10,"23,971","23,612",1.5
+Daily Visitation,July 11,"23,109","22,553",2.5
+Daily Visitation,July 12,"28,757","22,659",26.9
+Daily Visitation,July 13,"22,960","23,618",-2.8
+Daily Visitation,July 14,"25,619","25,212",1.6
+Daily Visitation,July 15,"24,505","24,424",0.3
+Daily Visitation,July 16,"25,168","25,329",-0.6
+Daily Visitation,July 17,"23,848","24,063",-0.9
+Daily Visitation,July 18,"24,375","25,527",-4.5
+Daily Visitation,July 19,"22,398","25,559",-12.4
+Daily Visitation,July 20,"23,124","27,865",-17.0
+Daily Visitation,July 21,"25,304","23,708",6.7
+Daily Visitation,July 22,"25,877","24,407",6.0
+Daily Visitation,July 23,"27,507","24,753",11.1
+Daily Visitation,July 24,"25,329","25,129",0.8
+Daily Visitation,July 25,"21,761","24,838",-12.4
+Daily Visitation,July 26,"25,675","25,302",1.5
+Daily Visitation,July 27,"24,186","23,762",1.8
+Daily Visitation,July 28,"26,853","22,008",22.0
+Daily Visitation,July 29,"24,648","23,400",5.3
+Daily Visitation,July 30,"25,408","25,032",1.5
+Daily Visitation,July 31,"24,574","24,515",0.2
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"577,922","566,526",2.0,"1,304,240","1,205,716",8.2,"1,457,234"
+Non-Recreation Visitors,"203,054","199,050",2.0,"494,343","454,307",8.8,"556,684"
+Total Visitors,"780,975","765,576",2.0,"1,798,583","1,660,023",8.3,"2,013,918"
+

@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Apr 1996,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,April 1,"1,738","2,778",-37.4
+Daily Visitation,April 2,"1,758","2,273",-22.7
+Daily Visitation,April 3,"1,916","1,684",13.8
+Daily Visitation,April 4,"1,746","1,998",-12.6
+Daily Visitation,April 5,"2,716","1,792",51.6
+Daily Visitation,April 6,"3,105","2,409",28.9
+Daily Visitation,April 7,"3,959","3,000",32.0
+Daily Visitation,April 8,"1,849","1,938",-4.6
+Daily Visitation,April 9,"2,270","1,044",117.4
+Daily Visitation,April 10,"2,386",693,244.3
+Daily Visitation,April 11,"1,336",464,187.9
+Daily Visitation,April 12,"1,595","1,636",-2.5
+Daily Visitation,April 13,915,"2,720",-66.4
+Daily Visitation,April 14,"1,987","3,136",-36.6
+Daily Visitation,April 15,"1,577","3,614",-56.4
+Daily Visitation,April 16,"2,078","2,335",-11.0
+Daily Visitation,April 17,"1,927","1,420",35.7
+Daily Visitation,April 18,"2,143","1,198",78.9
+Daily Visitation,April 19,"2,033","1,844",10.2
+Daily Visitation,April 20,"3,319","1,740",90.7
+Daily Visitation,April 21,"2,743","2,243",22.3
+Daily Visitation,April 22,"2,097","3,876",-45.9
+Daily Visitation,April 23,"2,924","2,796",4.6
+Daily Visitation,April 24,"2,739","2,410",13.7
+Daily Visitation,April 25,"2,270","2,065",9.9
+Daily Visitation,April 26,"2,724","2,374",14.7
+Daily Visitation,April 27,"2,837","2,578",10.0
+Daily Visitation,April 28,"2,381","2,270",4.9
+Daily Visitation,April 29,"2,446","2,520",-2.9
+Daily Visitation,April 30,"2,424","1,789",35.5
+Daily Visitation,April 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"42,810","40,746",5.1,"108,544","117,195",-7.4,"228,731"
+Non-Recreation Visitors,"25,142","23,930",5.1,"58,167","62,055",-6.3,"108,154"
+Total Visitors,"67,952","64,676",5.1,"166,711","179,250",-7.0,"336,885"
+

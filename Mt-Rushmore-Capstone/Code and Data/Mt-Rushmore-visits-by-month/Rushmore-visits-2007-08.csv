@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Aug 2007,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,August 1,"18,662","19,408",-3.8
+Daily Visitation,August 2,"17,824","21,594",-17.5
+Daily Visitation,August 3,"22,928","22,561",1.6
+Daily Visitation,August 4,"31,330","24,434",28.2
+Daily Visitation,August 5,"37,744","31,485",19.9
+Daily Visitation,August 6,"39,189","36,484",7.4
+Daily Visitation,August 7,"32,937","43,383",-24.1
+Daily Visitation,August 8,"31,696","40,693",-22.1
+Daily Visitation,August 9,"28,386","33,835",-16.1
+Daily Visitation,August 10,"23,705","33,294",-28.8
+Daily Visitation,August 11,"17,997","25,320",-28.9
+Daily Visitation,August 12,"16,386","17,906",-8.5
+Daily Visitation,August 13,"16,614","17,407",-4.6
+Daily Visitation,August 14,"16,866","16,750",0.7
+Daily Visitation,August 15,"15,565","27,644",-43.7
+Daily Visitation,August 16,"16,075","15,762",2.0
+Daily Visitation,August 17,"14,305","14,800",-3.3
+Daily Visitation,August 18,"15,382","15,621",-1.5
+Daily Visitation,August 19,"14,886","15,763",-5.6
+Daily Visitation,August 20,"13,571","14,051",-3.4
+Daily Visitation,August 21,"11,970","14,136",-15.3
+Daily Visitation,August 22,"12,917","13,000",-0.6
+Daily Visitation,August 23,"11,214","12,252",-8.5
+Daily Visitation,August 24,"12,379","12,143",1.9
+Daily Visitation,August 25,"12,773","11,138",14.7
+Daily Visitation,August 26,"11,497","11,224",2.4
+Daily Visitation,August 27,"9,064","9,717",-6.7
+Daily Visitation,August 28,"9,673","11,192",-13.6
+Daily Visitation,August 29,"9,272","10,770",-13.9
+Daily Visitation,August 30,"9,658","9,646",0.1
+Daily Visitation,August 31,"12,844","8,571",49.9
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"412,676","446,748",-7.6,"1,512,158","1,630,418",-7.3,"1,644,024"
+Non-Recreation Visitors,"152,633","165,236",-7.6,"569,148","612,981",-7.2,"623,584"
+Total Visitors,"565,309","611,984",-7.6,"2,081,305","2,243,399",-7.2,"2,267,608"
+

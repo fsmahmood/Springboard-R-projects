@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Apr 1998,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,April 1,"1,479","1,609",-8.1
+Daily Visitation,April 2,"1,613","1,668",-3.3
+Daily Visitation,April 3,"1,902","1,825",4.2
+Daily Visitation,April 4,"2,399","1,741",37.8
+Daily Visitation,April 5,"2,017",164,"1,129.9"
+Daily Visitation,April 6,"1,767",337,424.3
+Daily Visitation,April 7,"1,439",710,102.7
+Daily Visitation,April 8,"1,449","1,053",37.6
+Daily Visitation,April 9,"2,170",661,228.3
+Daily Visitation,April 10,"3,191",591,439.9
+Daily Visitation,April 11,"4,350","1,323",228.8
+Daily Visitation,April 12,"3,269","1,282",155.0
+Daily Visitation,April 13,"1,987","1,695",17.2
+Daily Visitation,April 14,"1,725","1,277",35.1
+Daily Visitation,April 15,"1,374","1,289",6.6
+Daily Visitation,April 16,"1,973","1,360",45.1
+Daily Visitation,April 17,"1,849","1,689",9.5
+Daily Visitation,April 18,"2,816","2,135",31.9
+Daily Visitation,April 19,"2,173","3,037",-28.4
+Daily Visitation,April 20,"1,778","3,042",-41.6
+Daily Visitation,April 21,"1,970","2,070",-4.8
+Daily Visitation,April 22,"2,288","1,883",21.5
+Daily Visitation,April 23,"2,025","2,046",-1.0
+Daily Visitation,April 24,"2,262","2,059",9.9
+Daily Visitation,April 25,"3,604","2,429",48.4
+Daily Visitation,April 26,"2,896","3,195",-9.4
+Daily Visitation,April 27,"2,328","3,531",-34.1
+Daily Visitation,April 28,"2,911","2,083",39.8
+Daily Visitation,April 29,"2,446","1,836",33.2
+Daily Visitation,April 30,"2,332","2,681",-13.0
+Daily Visitation,April 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"42,802","32,971",29.8,"98,150","100,541",-2.4,"199,555"
+Non-Recreation Visitors,"25,138","19,364",29.8,"52,739","53,191",-0.9,"94,160"
+Total Visitors,"67,940","52,335",29.8,"150,889","153,732",-1.8,"293,715"
+

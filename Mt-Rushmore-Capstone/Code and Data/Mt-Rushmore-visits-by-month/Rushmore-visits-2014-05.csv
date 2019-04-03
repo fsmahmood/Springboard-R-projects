@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: May 2014,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,May 1,"3,755","5,093",-26.3
+Daily Visitation,May 2,"3,386","3,524",-3.9
+Daily Visitation,May 3,"4,493","3,659",22.8
+Daily Visitation,May 4,"4,556","5,245",-13.1
+Daily Visitation,May 5,"4,134","4,583",-9.8
+Daily Visitation,May 6,"4,146","4,337",-4.4
+Daily Visitation,May 7,"3,701","4,337",-14.7
+Daily Visitation,May 8,"3,488","4,200",-17.0
+Daily Visitation,May 9,"5,464","4,208",29.8
+Daily Visitation,May 10,"6,149","5,132",19.8
+Daily Visitation,May 11,"4,259","6,111",-30.3
+Daily Visitation,May 12,"4,896","7,409",-33.9
+Daily Visitation,May 13,"5,437","5,759",-5.6
+Daily Visitation,May 14,"5,662","5,982",-5.3
+Daily Visitation,May 15,"5,836","5,946",-1.8
+Daily Visitation,May 16,"5,880","5,629",4.5
+Daily Visitation,May 17,"8,386","7,074",18.5
+Daily Visitation,May 18,"7,395","8,209",-9.9
+Daily Visitation,May 19,"7,029","7,667",-8.3
+Daily Visitation,May 20,"7,428","7,258",2.3
+Daily Visitation,May 21,"7,475","7,354",1.6
+Daily Visitation,May 22,"7,574","8,163",-7.2
+Daily Visitation,May 23,"9,648","7,556",27.7
+Daily Visitation,May 24,"16,240","9,748",66.6
+Daily Visitation,May 25,"15,772","16,859",-6.4
+Daily Visitation,May 26,"12,571","15,528",-19.0
+Daily Visitation,May 27,"9,305","9,479",-1.8
+Daily Visitation,May 28,"9,590","10,091",-5.0
+Daily Visitation,May 29,"9,473","8,651",9.5
+Daily Visitation,May 30,"7,960","8,687",-8.4
+Daily Visitation,May 31,"10,822","8,376",29.2
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"168,661","168,619",0.0,"301,333","298,641",0.9,"416,084"
+Non-Recreation Visitors,"53,261","53,248",0.0,"123,713","121,789",1.6,"172,916"
+Total Visitors,"221,922","221,867",0.0,"425,047","420,430",1.1,"589,000"
+

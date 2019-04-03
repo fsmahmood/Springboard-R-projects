@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: May 2010,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,May 1,"3,679","2,562",43.6
+Daily Visitation,May 2,"3,458","3,717",-7.0
+Daily Visitation,May 3,"3,939","4,563",-13.7
+Daily Visitation,May 4,"3,693","3,214",14.9
+Daily Visitation,May 5,"4,055","3,445",17.7
+Daily Visitation,May 6,"2,709","3,731",-27.4
+Daily Visitation,May 7,"4,081","3,998",2.1
+Daily Visitation,May 8,"5,121","3,992",28.3
+Daily Visitation,May 9,"5,991","5,599",7.0
+Daily Visitation,May 10,"3,227","5,106",-36.8
+Daily Visitation,May 11,"4,465","4,759",-6.2
+Daily Visitation,May 12,"3,349","5,211",-35.7
+Daily Visitation,May 13,"5,873","4,915",19.5
+Daily Visitation,May 14,"6,371","5,363",18.8
+Daily Visitation,May 15,"8,424","5,910",42.5
+Daily Visitation,May 16,"6,939","8,652",-19.8
+Daily Visitation,May 17,"7,865","11,093",-29.1
+Daily Visitation,May 18,"7,709","7,082",8.9
+Daily Visitation,May 19,"6,841","7,254",-5.7
+Daily Visitation,May 20,"9,313","6,325",47.2
+Daily Visitation,May 21,"7,122","6,524",9.2
+Daily Visitation,May 22,"9,770","8,202",19.1
+Daily Visitation,May 23,"11,353","17,933",-36.7
+Daily Visitation,May 24,"9,011","15,696",-42.6
+Daily Visitation,May 25,"10,421","14,297",-27.1
+Daily Visitation,May 26,"8,715","9,203",-5.3
+Daily Visitation,May 27,"9,141","9,850",-7.2
+Daily Visitation,May 28,"11,778","8,720",35.1
+Daily Visitation,May 29,"16,632","10,680",55.7
+Daily Visitation,May 30,"18,833","11,211",68.0
+Daily Visitation,May 31,"13,932","10,839",28.5
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"177,705","174,541",1.8,"311,928","284,761",9.5,"444,188"
+Non-Recreation Visitors,"56,117","55,118",1.8,"127,486","113,331",12.5,"182,974"
+Total Visitors,"233,822","229,659",1.8,"439,415","398,092",10.4,"627,162"
+

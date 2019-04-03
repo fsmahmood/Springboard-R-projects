@@ -1,0 +1,44 @@
+﻿Title,ReportDate,Bookmark
+Mount Rushmore NMEM,Report Date: Nov 2000,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Daily%20and%20Monthly
+
+Description,Date,ThisMonth,SameMonthLastYear,PercentChange
+Daily Visitation,November 1,745,"1,088",-31.5
+Daily Visitation,November 2,795,"1,258",-36.8
+Daily Visitation,November 3,853,"1,335",-36.1
+Daily Visitation,November 4,834,"1,514",-44.9
+Daily Visitation,November 5,718,"1,619",-55.7
+Daily Visitation,November 6,677,"2,391",-71.7
+Daily Visitation,November 7,677,"1,077",-37.1
+Daily Visitation,November 8,731,"1,277",-42.8
+Daily Visitation,November 9,"1,074","1,495",-28.2
+Daily Visitation,November 10,729,"1,206",-39.6
+Daily Visitation,November 11,718,"1,825",-60.7
+Daily Visitation,November 12,673,"2,121",-68.3
+Daily Visitation,November 13,896,"2,718",-67.0
+Daily Visitation,November 14,"1,166","2,052",-43.2
+Daily Visitation,November 15,712,"1,181",-39.7
+Daily Visitation,November 16,550,"1,243",-55.8
+Daily Visitation,November 17,845,"1,068",-20.9
+Daily Visitation,November 18,769,440,74.8
+Daily Visitation,November 19,712,828,-14.0
+Daily Visitation,November 20,418,"1,378",-69.7
+Daily Visitation,November 21,993,"1,163",-14.6
+Daily Visitation,November 22,939,850,10.5
+Daily Visitation,November 23,"1,031","1,017",1.4
+Daily Visitation,November 24,"2,319","1,015",128.5
+Daily Visitation,November 25,"2,084","1,166",78.7
+Daily Visitation,November 26,"1,131","1,960",-42.3
+Daily Visitation,November 27,669,"2,053",-67.4
+Daily Visitation,November 28,664,"1,325",-49.9
+Daily Visitation,November 29,702,656,7.0
+Daily Visitation,November 30,407,904,-55.0
+Daily Visitation,November 31,0,0,NaN
+
+Label,Value,YTD
+,,
+
+Label,ThisMonth,SameMonthLastYear,PercentChange,ThisYearYTD,LastYearYTD,PercentChangeYTD,FiscalYTD
+Recreation Visitors,"16,796","26,391",-36.4,"1,854,538","1,954,252",-5.1,"86,210"
+Non-Recreation Visitors,"9,448","14,845",-36.4,"646,958","675,862",-4.3,"33,837"
+Total Visitors,"26,244","41,236",-36.4,"2,501,496","2,630,114",-4.9,"120,047"
+
